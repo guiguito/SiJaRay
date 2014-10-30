@@ -27,15 +27,14 @@ The gui  :
 
 Some renderings can be seen here :
 
-![](results/heightsmooth.png)
-
 ![](results/light3.png)
 
 ![](results/mapping2.png)
 
 ![](results/smoothoff.png)
 
-![](results/whitted.png)
+![](results/heightsmooth.png)
+
 
 [Download grosgros](results/grosgros.avi)
 
