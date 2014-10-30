@@ -4,7 +4,9 @@ SiJaRay
 A simple java raytracer
 
 SiJaRay is simple raytracer fully written in java. 
-It supports the following features : 
+
+It supports the following features :
+ 
 - Suppports many differents objects : .off 3D files, Heightfield, BumpMapFloor, CheckerBoard, Cube, Cylinder, Cube, Sphere, Triangle, Plane, ImageFloor, ImageSphere, etc ... 
 - Supports different materials and mappings : simple color, AlphaMapping, BumpMapping, TextTureMapping, ReflectionMapping, etc ...
 - Supports different kind of lights : Ambien light, Point light, Spot  light, point light diffuse, etc ...
@@ -18,22 +20,35 @@ You can import this project directly in eclipse.
 ## Some results :
 
 Some renderings can be seen here :
-https://github.com/guiguito/SiJaRay/results/gui.png 
-https://github.com/guiguito/SiJaRay/results/whitted.png
-https://github.com/guiguito/SiJaRay/results/heightsmooth.png
-https://github.com/guiguito/SiJaRay/results/light3.png
-https://github.com/guiguito/SiJaRay/results/mapping2.png
-https://github.com/guiguito/SiJaRay/results/smoothoff.png
-https://github.com/guiguito/SiJaRay/results/whitted.png
-https://github.com/guiguito/SiJaRay/results/grosgros.avi
-https://github.com/guiguito/SiJaRay/results/anim2.avi
+
+![](results/gui.png )
+
+![](results/whitted.png)
+
+![](results/heightsmooth.png)
+
+![](results/light3.png)
+
+![](results/mapping2.png)
+
+![](results/smoothoff.png)
+
+![](results/whitted.png)
+
+![](results/grosgros.avi)
+
+![](results/anim2.avi)
+
 
 ## Documentation
 
 This project was a bit documented and presented years ago. 
-You can find a small documentation here : https://github.com/guiguito/SiJaRay/docs/reportraytracer.pdf
-You can find a class diagram here : https://github.com/guiguito/SiJaRay/docs/classdiagram.png
-You can find a presentation here : https://github.com/guiguito/SiJaRay/docs/presentation.odp
+
+You can find a small documentation here : ![](docs/reportraytracer.pdf)
+
+You can find a class diagram here : ![](docs/classdiagram.png)
+
+You can find a presentation here : ![](docs/presentation.odp)
 
 ## Support
 This raytracer was made 8 years ago at the end of my studies when i studied six months at the RIT.
