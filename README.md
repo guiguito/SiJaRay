@@ -3,6 +3,8 @@ SiJaRay
 
 A simple java raytracer
 
+![logo](results/whitted.png)
+
 SiJaRay is simple raytracer fully written in java. 
 
 It supports the following features :
@@ -19,11 +21,11 @@ You can import this project directly in eclipse.
 
 ## Some results :
 
-Some renderings can be seen here :
+The gui  :
 
 ![](results/gui.png )
 
-![](results/whitted.png)
+Some renderings can be seen here :
 
 ![](results/heightsmooth.png)
 
