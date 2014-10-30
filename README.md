@@ -45,11 +45,11 @@ Some renderings can be seen here :
 
 This project was a bit documented and presented years ago. 
 
-You can find a small documentation here : ![Download reportraytracer](docs/reportraytracer.pdf)
+You can find a small documentation here : [Download reportraytracer](docs/reportraytracer.pdf)
 
 You can find a class diagram here : ![](docs/classdiagram.png)
 
-You can find a presentation here : ![Download presentation](docs/presentation.odp)
+You can find a presentation here : [Download presentation](docs/presentation.odp)
 
 ## Support
 This raytracer was made 8 years ago at the end of my studies when i studied six months at the RIT.
